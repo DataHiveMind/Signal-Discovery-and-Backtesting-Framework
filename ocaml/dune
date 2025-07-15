@@ -1,0 +1,4 @@
+(library
+ (name quant)
+ (public_name quant_research)
+ (libraries core owl ctypes ctypes.foreign))

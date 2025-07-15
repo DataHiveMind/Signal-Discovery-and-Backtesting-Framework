@@ -1,0 +1,4 @@
+(lang dune 2.7)
+(name quant_research)
+(version 0.1)
+(using owl 0.7)
